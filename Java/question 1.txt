@@ -1,0 +1,18 @@
+Object Modeling Techniques (OMT): Object Modeling Techniques (OMT) is a method for visualizing and documenting software systems using objects, classes, and their relationships. It was developed by James Rumbaugh and his colleagues at General Electric Research and Development Center. OMT provides a set of graphical notations for representing object-oriented concepts, such as classes, objects, and their interactions. It includes three main techniques: Object Modeling, Dynamic Modeling, and Functional Modeling.
+
+ii. Comparison between Object-Oriented Analysis and Design (OOAD) and Object Analysis and Design (OOP):
+
+Object-Oriented Analysis and Design (OOAD): This is a methodology that combines object-oriented techniques with a systematic approach to analyze, design, and implement a system. It involves identifying objects in the problem domain, defining their properties and behaviors, and modeling their interactions. OOAD focuses on creating a detailed design before implementation.
+
+Object Analysis and Design (OOP): This term is not standard in the context of software development. However, if it is meant to refer to Object-Oriented Programming (OOP), then OOP is a programming paradigm that uses objects (instances of classes) to organize code. OOP is a subset of OOAD and involves the implementation phase, where classes and objects are created based on the design.
+
+iii. Main Goals of UML (Unified Modeling Language):
+
+Standardization: UML provides a standardized way to visualize and document a system's design.
+Flexibility: UML is flexible and can be adapted for various types of systems and industries.
+Clarity: UML aims to improve communication among stakeholders by providing a common visual language.
+iv. Advantages of Object-Oriented Development:
+
+Reusability: Objects can be reused across different parts of an application or in different applications, promoting a modular and efficient development process.
+Modularity: OOP allows for the encapsulation of data and behavior within objects, leading to modular and maintainable code.
+Flexibility and Extensibility: OOP supports the creation of new classes and the extension of existing ones, providing a flexible and extensible framework for development.

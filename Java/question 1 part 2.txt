@@ -1,0 +1,16 @@
+ Three Types of Associations in Object-Oriented Programming:
+
+Aggregation: Represents a "whole-part" relationship where a class contains another class, but the contained class can exist independently.
+Composition: Similar to aggregation, but the lifetime of the contained class is tied to the containing class. If the containing class is destroyed, the contained class is also destroyed.
+Association: Represents a relationship between two classes, indicating that objects of one class are related to objects of another class.
+vii. Class Diagram:
+
+Definition: A class diagram is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (methods), and the relationships among them.
+Usage: Class diagrams are used for visualizing, documenting, and designing the structure of object-oriented systems.
+Steps to Draw a Class Diagram:
+Identify classes: Identify the main classes in the system.
+Identify relationships: Determine how classes are related (association, aggregation, composition).
+Add attributes and methods: List the attributes and methods for each class.
+Draw connections: Use lines to represent relationships between classes.
+Add multiplicities: Specify the number of objects involved in each relationship.
+Review and refine: Ensure the diagram accurately represents the system's structure.
