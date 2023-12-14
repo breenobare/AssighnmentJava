@@ -91,8 +91,42 @@ public interface Shape {
 ```
 
 ### d. Polymorphism
+Polymorphism allows objects of different types to be treated as objects of a common type. It can be achieved through method overloading (compile-time polymorphism) and method overriding (runtime polymorphism).
+```
+// Polymorphic method
+public void printInfo(Shape shape) {
+    System.out.println("Area: " + shape.calculateArea());
+}
+
+// Example usage
+Circle circle = new Circle();
+printInfo(circle); // The Circle object is treated polymorphically
+```
 
 ### e. Class
+A class is a blueprint or template for creating objects. It defines the structure and behavior of objects. A class encapsulates data (attributes) and methods (functions) that operate on that data.
+```java
+// Class definition
+public class Student {
+    // Fields (attributes)
+    String name;
+    int age;
+
+    // Constructor method
+    public Student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    // Method
+    public void study() {
+        System.out.println(name + " is studying.");
+    }
+}
+
+// Creating an object of the Student class
+Student student1 = new Student("Alice", 20);
+```
 
 ---
 
