@@ -170,7 +170,7 @@ Student student1 = new Student("Alice", 20);
 
 ---
 
-## Q6. EXPLAIN the three types of associations (relationships) between objects in object oriented.
+## Q6. Explain the three types of associations (relationships) between objects in object oriented.
 
 ### a. Aggregation
 
@@ -196,7 +196,7 @@ A class diagram is a type of static structure diagram that describes the structu
 
 Class diagrams are used for visualizing, documenting, and designing the structure of object-oriented systems.
 
-### c. Steps to Draw a Class Diagram
+### c. Steps to draw a Class Diagram
 
 1. **Identify classes:** Identify the main classes in the system.
 2. **Identify relationships:** Determine how classes are related (association, aggregation, composition).
@@ -207,7 +207,66 @@ Class diagrams are used for visualizing, documenting, and designing the structur
 
 ---
 
-## Palindrome Checker GUI
+## QQ Palindrome Checker GUI
+A palindrome number is a number that remain the same when read from behind or front  ( a number that is equal to reverse of number) for example,  353 is palindrome because reverse of 353 is 353 (you see the number remains the same). But a number like 591 is not palindrome because reverse of 591 is 195 which is not equal to 591. Write Java program to check if a number entered by the user is palindrome or not. You should provide the user with a GUI interface to enter the number and display the results on the same interface.
+```java
+
+```
+import javafx.application.Application;
+import javafx.geometry.Insets;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
+import javafx.scene.layout.VBox;
+import javafx.stage.Stage;
+
+public class PalindromeCheckerGUI extends Application {
+
+    @Override
+    public void start(Stage primaryStage) {
+        // Set the title for the application window
+        primaryStage.setTitle("Palindrome Checker");
+
+        // Create UI components
+        TextField numberField = new TextField(); // Text field for user input
+        Button checkButton = new Button("Check Palindrome"); // Button to trigger palindrome check
+        Label resultLabel = new Label(); // Label to display the result
+
+        // Set action for the button
+        checkButton.setOnAction(e -> {
+            String input = numberField.getText();
+            boolean isPalindrome = isPalindrome(input);
+            resultLabel.setText("Is Palindrome: " + isPalindrome);
+        });
+
+        // Create layout (VBox: vertical box)
+        VBox layout = new VBox(10); // 10-pixel spacing between components
+        layout.setPadding(new Insets(10)); // 10-pixel padding
+        layout.getChildren().addAll(new Label("Enter a number:"), numberField, checkButton, resultLabel);
+
+        // Set up the scene
+        Scene scene = new Scene(layout, 300, 150); // Set the scene with a width and height
+
+        // Show the stage
+        primaryStage.setScene(scene);
+        primaryStage.show();
+    }
+
+    // Method to check if a string is a palindrome
+    private boolean isPalindrome(String input) {
+        // Remove spaces and convert to lowercase for case-insensitive comparison
+        String cleanInput = input.replaceAll("\\s", "").toLowerCase();
+
+        // Compare the string with its reverse
+        return cleanInput.equals(new StringBuilder(cleanInput).reverse().toString());
+    }
+
+    public static void main(String[] args) {
+        // Launch the JavaFX application
+        launch(args);
+    }
+}
 
 ---
 
