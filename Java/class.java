@@ -1,7 +1,7 @@
 /*
-Class:
-
-Explanation: A class is a blueprint or template for creating objects. It defines the structure and behavior of objects. A class encapsulates data (attributes) and methods (functions) that operate on that data.
+A class is a blueprint or template for creating objects. 
+It defines the structure and behavior of objects. 
+A class encapsulates data (attributes) and methods (functions) that operate on that data.
 */
 // Class definition
 public class Student {
