@@ -89,26 +89,6 @@ public class MyClass {
         this.myNumber = number; // Assign the value of 'number' to 'myNumber'
         this.myString = str;    // Assign the value of 'str' to 'myString'
     }
-
-    // Other methods...
-
-    // Getter methods to access the attributes
-    public int getMyNumber() {
-        return myNumber; // Return the value of 'myNumber'
-    }
-
-    public String getMyString() {
-        return myString; // Return the value of 'myString'
-    }
-
-    public static void main(String[] args) {
-        // Creating an object and calling the constructor
-        MyClass myObject = new MyClass(42, "Hello, World!");
-
-        // Accessing object's attributes using getter methods
-        System.out.println("Number: " + myObject.getMyNumber()); // Print the value of 'myNumber'
-        System.out.println("String: " + myObject.getMyString()); // Print the value of 'myString'
-    }
 }
 
 ```
