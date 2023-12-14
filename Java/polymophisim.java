@@ -1,7 +1,6 @@
 /*
-Polymorphism:
-
-Explanation: Polymorphism allows objects of different types to be treated as objects of a common type. It can be achieved through method overloading (compile-time polymorphism) and method overriding (runtime polymorphism).
+Polymorphism allows objects of different types to be treated as objects of a common type.
+It can be achieved through method overloading (compile-time polymorphism) and method overriding (runtime polymorphism).
 */
 // Polymorphic method
 public void printInfo(Shape shape) {
