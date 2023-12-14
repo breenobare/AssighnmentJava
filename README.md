@@ -35,7 +35,7 @@ The Unified Modeling Language (UML) is a standardized modeling language widely u
 
 - **2. Visualization:** UML provides a graphical notation for representing various aspects of a software system, including its structure, behavior, and interactions. Through visual diagrams such as class diagrams, sequence diagrams, and activity diagrams, UML helps stakeholders to visualize and comprehend the complex relationships and dynamics within a system.
 
-- **3. Specification:** UML serves as a means to specify the structure and behavior of a system in a concise and standardized way. It enables the documentation of requirements, design decisions, and system architecture, offering a comprehensive and clear representation that can be easily communicated and understood.
+   **3. Specification:** UML serves as a means to specify the structure and behavior of a system in a concise and standardized way. It enables the documentation of requirements, design decisions, and system architecture, offering a comprehensive and clear representation that can be easily communicated and understood.
 
 - **4. Modeling Abstractions:** UML allows the abstraction of complex systems by breaking them down into manageable and comprehensible models. It supports various levels of abstraction, from high-level conceptual models to detailed designs, helping stakeholders focus on relevant aspects of the system at different stages of the software development life cycle.
 
