@@ -70,7 +70,7 @@ Object-oriented development (OOD) is a software development paradigm based on th
     - OOP encourages collaborative development by allowing different developers to work on different objects or classes simultaneously, as long as they adhere to the agreed-upon interfaces.
 ---
 
-## Terms in Object-Oriented Programming
+## Q5. Briefly explain the following terms as used in object oriented programming. Write a sample java code to illustrate the implementation of the term. 
 
 ### a. Constructor method
 A constructor is a special method used for initializing objects. It has the same name as the class and doesn't have a return type, not even void. Constructors are called automatically when an object is created, and they are used to set initial values for the object's attributes or perform any necessary setup.
