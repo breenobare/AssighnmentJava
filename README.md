@@ -93,7 +93,34 @@ public class MyClass {
 
 ```
 ### b. Object
-```
+An object is an instance of a class. A class is a blueprint or template that defines the structure and behavior of objects. Objects are fundamental to the object-oriented programming (OOP) paradigm, which is a programming paradigm that uses objects to organize code.
+```Java
+// Define the Person class
+public class Person {
+    // Instance variables
+    String name;
+    int age;
+
+    // Constructor to initialize instance variables
+    public Person(String name, int age) {
+        this.name = name; // Assign the 'name' parameter to the 'name' instance variable
+        this.age = age;   // Assign the 'age' parameter to the 'age' instance variable
+    }
+
+    // Instance method to print a greeting
+    public void greet() {
+        System.out.println("Hello, I'm " + name + " and I'm " + age + " years old.");
+    }
+
+    // Main method where the program starts
+    public static void main(String[] args) {
+        // Create an object of the Person class with name "John" and age 25
+        Person myPerson = new Person("John", 25);
+
+        // Call the greet method of the myPerson object to print the greeting
+        myPerson.greet();
+    }
+}
 ```
 ### c. Interface
 An interface in Java is a collection of abstract methods. It defines a contract for classes that implement it. Interfaces allow multiple inheritance and provide a way to achieve abstraction and polymorphism.
