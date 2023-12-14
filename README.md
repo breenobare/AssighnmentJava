@@ -45,37 +45,26 @@ Programming paradigm using objects (instances of classes) to organize code. Subs
 Object-oriented development (OOD) is a software development paradigm based on the concept of "objects," which encapsulate data and behavior. This approach offers numerous advantages in the development process.
 1. **Modularity:**
    - Objects encapsulate data and behavior, providing a natural way to structure and organize code. This modular approach makes it easier to understand, develop, and maintain software.
-
 2. **Reusability:**
    - Objects can be reused in different parts of an application or in different projects. This promotes code reusability, leading to reduced development time and improved consistency.
-
 3. **Flexibility and Extensibility:**
    - The design of an object-oriented system allows for flexibility and extensibility. New classes and objects can be added with ease, and existing ones can be modified or extended without affecting the entire system.
-
 4. **Ease of Maintenance:**
    - The modular nature of object-oriented code makes it easier to maintain. Changes to one part of the system are less likely to impact other parts, reducing the risk of introducing bugs during maintenance.
-
 5. **Abstraction:**
    - Abstraction allows developers to focus on essential details while ignoring non-essential details. This makes it easier to conceptualize and design complex systems by breaking them down into more manageable components.
-
 6. **Encapsulation:**
    - Encapsulation refers to the bundling of data and methods that operate on that data into a single unit or class. This helps in hiding the internal details of an object and exposes only what is necessary, promoting information hiding and reducing system complexity.
-
 7. **Improved Code Organization:**
    - Object-oriented programming (OOP) promotes a more intuitive and natural way of organizing code. This makes it easier for developers to understand the relationships between different components of a system.
-
 8. **Code Maintainability:**
    - Because of the modular and organized nature of object-oriented code, it is generally easier to understand, modify, and maintain. This is particularly important in large and complex software systems.
-
 9. **Support for Real-world Modeling:**
    - OOP allows developers to model real-world entities and their interactions in the software. This alignment between the software model and the real-world problem domain can lead to more intuitive and understandable code.
-
 10. **Support for Inheritance and Polymorphism:**
     - Inheritance allows the creation of new classes based on existing ones, facilitating code reuse and promoting a hierarchical structure. Polymorphism allows objects to be treated as instances of their parent class, enhancing flexibility and generality in the code.
-
 11. **Collaborative Development:**
     - OOP encourages collaborative development by allowing different developers to work on different objects or classes simultaneously, as long as they adhere to the agreed-upon interfaces.
-
 ---
 
 ## Terms in Object-Oriented Programming
