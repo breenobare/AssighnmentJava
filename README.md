@@ -80,9 +80,6 @@ Programming paradigm using objects (instances of classes) to organize code. Subs
 ### b. Object
 
 ### c. Interface
-# Shape Interface and Circle Class
-
-## Overview
 Explanation: An interface in Java is a collection of abstract methods. It defines a contract for classes that implement it. Interfaces allow multiple inheritance and provide a way to achieve abstraction and polymorphism.
 
 ```java
