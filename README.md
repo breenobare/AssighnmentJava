@@ -8,30 +8,6 @@ This repository contains Java code snippets and explanations related to object-o
 - **Reg Number:** SCT221-0990/2021
 - **Unit:** OBJECT ORIENTED PROGRAMMING II
 
-## Table of Contents
-
-1. [Object Modeling Techniques (OMT)](#object-modeling-techniques-omt)
-2. [Comparison between Object-Oriented Analysis and Design (OOAD) and Object Analysis and Design (OOP)](#comparison-between-object-oriented-analysis-and-design-ooad-and-object-analysis-and-design-oop)
-3. [Main Goals of UML](#main-goals-of-uml)
-4. [Advantages of Object-Oriented Development](#advantages-of-object-oriented-development)
-5. [Terms in Object-Oriented Programming](#terms-in-object-oriented-programming)
-   - a. [Constructor method](#constructor-method)
-   - b. [Object](#object)
-   - c. [Interface](#interface)
-   - d. [Polymorphism](#polymorphism)
-   - e. [Class](#class)
-6. [Types of Associations in Object-Oriented Programming](#types-of-associations-in-object-oriented-programming)
-   - a. [Aggregation](#aggregation)
-   - b. [Composition](#composition)
-   - c. [Association](#association)
-7. [Class Diagram](#class-diagram)
-   - a. [Definition](#definition)
-   - b. [Usage](#usage)
-   - c. [Steps to Draw a Class Diagram](#steps-to-draw-a-class-diagram)
-8. [Palindrome Checker GUI](#palindrome-checker-gui)
-9. [Array Operations](#array-operations)
-
----
 
 ## Object Modeling Techniques (OMT)
 
