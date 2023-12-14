@@ -1,5 +1,5 @@
 # Object-Oriented Programming II Assignment in Java
-[GGGGGGGG]([PART B.MD](https://github.com/breenobare/AssighnmentJava/blob/main/part_C.md))
+[PART B.MD](https://github.com/breenobare/AssighnmentJava/blob/main/part_C.md)
 
 This repository contains Java code snippets and explanations related to object-oriented programming concepts. The code examples cover topics such as classes, objects, inheritance, polymorphism, and more.
 
