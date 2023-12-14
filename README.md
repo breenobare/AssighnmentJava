@@ -76,9 +76,45 @@ Programming paradigm using objects (instances of classes) to organize code. Subs
 ## Terms in Object-Oriented Programming
 
 ### a. Constructor method
+A constructor is a special method used for initializing objects. It has the same name as the class and doesn't have a return type, not even void. Constructors are called automatically when an object is created, and they are used to set initial values for the object's attributes or perform any necessary setup.
+```
+public class MyClass {
+    // Fields or attributes
+    private int myNumber;   // An integer attribute
+    private String myString; // A String attribute
 
+    // Constructor
+    public MyClass(int number, String str) {
+        // Initialize the object's attributes with the values passed as parameters
+        this.myNumber = number; // Assign the value of 'number' to 'myNumber'
+        this.myString = str;    // Assign the value of 'str' to 'myString'
+    }
+
+    // Other methods...
+
+    // Getter methods to access the attributes
+    public int getMyNumber() {
+        return myNumber; // Return the value of 'myNumber'
+    }
+
+    public String getMyString() {
+        return myString; // Return the value of 'myString'
+    }
+
+    public static void main(String[] args) {
+        // Creating an object and calling the constructor
+        MyClass myObject = new MyClass(42, "Hello, World!");
+
+        // Accessing object's attributes using getter methods
+        System.out.println("Number: " + myObject.getMyNumber()); // Print the value of 'myNumber'
+        System.out.println("String: " + myObject.getMyString()); // Print the value of 'myString'
+    }
+}
+
+```
 ### b. Object
-
+```
+```
 ### c. Interface
 An interface in Java is a collection of abstract methods. It defines a contract for classes that implement it. Interfaces allow multiple inheritance and provide a way to achieve abstraction and polymorphism.
 
