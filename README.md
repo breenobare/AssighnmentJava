@@ -43,7 +43,8 @@ The Unified Modeling Language (UML) is a standardized modeling language widely u
 
 ---
 
-## Advantages of Object-Oriented Development
+## Q4. iv.	DESCRIBE three advantages of using object oriented to develop an information system.
+
 Object-oriented development (OOD) is a software development paradigm based on the concept of "objects," which encapsulate data and behavior. This approach offers numerous advantages in the development process.
 1. **Modularity:**
    - Objects encapsulate data and behavior, providing a natural way to structure and organize code. This modular approach makes it easier to understand, develop, and maintain software.
