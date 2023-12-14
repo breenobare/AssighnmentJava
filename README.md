@@ -128,7 +128,7 @@ public interface Shape {
 
 ### d. Polymorphism
 Polymorphism allows objects of different types to be treated as objects of a common type. It can be achieved through method overloading (compile-time polymorphism) and method overriding (runtime polymorphism).
-```
+```java
 // Polymorphic method
 public void printInfo(Shape shape) {
     System.out.println("Area: " + shape.calculateArea());
