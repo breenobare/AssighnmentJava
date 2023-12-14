@@ -1,4 +1,4 @@
-# Object-Oriented Programming Concepts in Java
+# Object-Oriented Programming II Assighnment in Java
 
 This repository contains Java code snippets and explanations related to object-oriented programming concepts. The code examples cover topics such as classes, objects, inheritance, polymorphism, and more.
 
