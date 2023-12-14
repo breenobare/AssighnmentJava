@@ -21,13 +21,13 @@ Object Modeling Techniques (OMT) is a method for visualizing and documenting sof
 
 ## Q2. Comparison between Object-Oriented Analysis and Design (OOAD) and Object Oriented Programming (OOP)
 
-Methodology combining object-oriented techniques with a systematic approach. Focuses on analyzing, designing, and implementing a system, creating a detailed design before implementation.
+**Object-Oriented Analysis and Design (OOAD):** OOAD is a crucial early phase in software development that concentrates on comprehending the problem domain and establishing system requirements. It employs concepts such as objects, classes, relationships, and various diagrams to model real-world entities and interactions, abstracting essential details to create a conceptual model. OOAD results in artifacts like use case diagrams, class diagrams, and sequence diagrams, providing a blueprint for the subsequent implementation phase.
 
-Programming paradigm using objects (instances of classes) to organize code. Subset of OOAD, involving the implementation phase based on the design.
+**Object-Oriented Programming (OOP):** OOP is the implementation and execution phase following OOAD, where the design is translated into a working software solution. It involves writing code to create and manipulate objects using classes, with key concepts such as inheritance, polymorphism, and encapsulation. Code is written in a programming language like Java, compiled or interpreted, and executed during runtime. OOP generates executable code from the source code, and objects interact through method calls and message passing, bringing the designed system to life.
 
 ---
 
-## Main Goals of UML
+## Q3. Discuss Mian goals of UML. 	
 
 1. **Standardization:** UML provides a standardized way to visualize and document system designs.
 2. **Flexibility:** Adaptable for various system types and industries.
