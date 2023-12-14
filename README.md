@@ -77,7 +77,7 @@ Programming paradigm using objects (instances of classes) to organize code. Subs
 
 ### a. Constructor method
 A constructor is a special method used for initializing objects. It has the same name as the class and doesn't have a return type, not even void. Constructors are called automatically when an object is created, and they are used to set initial values for the object's attributes or perform any necessary setup.
-```
+```java
 public class MyClass {
     // Fields or attributes
     private int myNumber;   // An integer attribute
