@@ -9,7 +9,7 @@ This repository contains Java code snippets and explanations related to object-o
 - **Unit:** OBJECT ORIENTED PROGRAMMING II
 ---
 
-## Object Modeling Techniques (OMT)
+## What is the Object Modeling Techniques (OMT)?
 
 Object Modeling Techniques (OMT) is a method for visualizing and documenting software systems using objects, classes, and their relationships. Developed by James Rumbaugh and his colleagues at General Electric Research and Development Center, OMT provides graphical notations for representing object-oriented concepts. It includes three main techniques:
 
