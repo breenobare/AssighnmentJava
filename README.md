@@ -83,7 +83,7 @@ Programming paradigm using objects (instances of classes) to organize code. Subs
 # Shape Interface and Circle Class
 
 ## Overview
-## Interface Definition
+- Interface Definition
 
 ```java
 /*
@@ -96,7 +96,7 @@ public interface Shape {
     double calculateArea(); // Abstract method
     void draw(); // Another abstract method
 }
-
+```
 
 ### d. Polymorphism
 
