@@ -170,7 +170,7 @@ Student student1 = new Student("Alice", 20);
 
 ---
 
-## Types of Associations in Object-Oriented Programming
+## Q6. EXPLAIN the three types of associations (relationships) between objects in object oriented.
 
 ### a. Aggregation
 
@@ -186,7 +186,7 @@ Represents a relationship between two classes, indicating that objects of one cl
 
 ---
 
-## Class Diagram
+## Q7. What do you mean by class diagram? Where it is used and also discuss the steps to draw the class diagram with any one example.
 
 ### a. Definition
 
