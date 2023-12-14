@@ -7,7 +7,7 @@ This repository contains Java code snippets and explanations related to object-o
 - **Author:** BREEN OGERO OBARE
 - **Reg Number:** SCT221-0990/2021
 - **Unit:** OBJECT ORIENTED PROGRAMMING II
-
+---
 
 ## Object Modeling Techniques (OMT)
 
@@ -19,7 +19,7 @@ Object Modeling Techniques (OMT) is a method for visualizing and documenting sof
 
 ---
 
-## Comparison between Object-Oriented Analysis and Design (OOAD) and Object Analysis and Design (OOP)
+## Comparison between Object-Oriented Analysis and Design (OOAD) and Object Oriented Programming (OOP)
 
 ### Object-Oriented Analysis and Design (OOAD)
 
