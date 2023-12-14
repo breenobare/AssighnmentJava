@@ -21,9 +21,9 @@ Object Modeling Techniques (OMT) is a method for visualizing and documenting sof
 
 ## Q2. Comparison between Object-Oriented Analysis and Design (OOAD) and Object Oriented Programming (OOP)
 
-**Object-Oriented Analysis and Design (OOAD):** OOAD is a crucial early phase in software development that concentrates on comprehending the problem domain and establishing system requirements. It employs concepts such as objects, classes, relationships, and various diagrams to model real-world entities and interactions, abstracting essential details to create a conceptual model. OOAD results in artifacts like use case diagrams, class diagrams, and sequence diagrams, providing a blueprint for the subsequent implementation phase.
+- **Object-Oriented Analysis and Design (OOAD):** OOAD is a crucial early phase in software development that concentrates on comprehending the problem domain and establishing system requirements. It employs concepts such as objects, classes, relationships, and various diagrams to model real-world entities and interactions, abstracting essential details to create a conceptual model. OOAD results in artifacts like use case diagrams, class diagrams, and sequence diagrams, providing a blueprint for the subsequent implementation phase.
 
-**Object-Oriented Programming (OOP):** OOP is the implementation and execution phase following OOAD, where the design is translated into a working software solution. It involves writing code to create and manipulate objects using classes, with key concepts such as inheritance, polymorphism, and encapsulation. Code is written in a programming language like Java, compiled or interpreted, and executed during runtime. OOP generates executable code from the source code, and objects interact through method calls and message passing, bringing the designed system to life.
+- **Object-Oriented Programming (OOP):** OOP is the implementation and execution phase following OOAD, where the design is translated into a working software solution. It involves writing code to create and manipulate objects using classes, with key concepts such as inheritance, polymorphism, and encapsulation. Code is written in a programming language like Java, compiled or interpreted, and executed during runtime. OOP generates executable code from the source code, and objects interact through method calls and message passing, bringing the designed system to life.
 
 ---
 
@@ -31,15 +31,15 @@ Object Modeling Techniques (OMT) is a method for visualizing and documenting sof
 
 The Unified Modeling Language (UML) is a standardized modeling language widely used in software engineering for visualizing, specifying, constructing, and documenting the artifacts of a software system. The main goals of UML are to provide a standardized and universally accepted notation for modeling complex systems, fostering better communication and understanding among stakeholders involved in software development. Here are the primary goals of UML:
 
-   **1. Standardization:** UML aims to establish a common language and notation for software modeling, allowing developers, analysts, designers, and other stakeholders to communicate effectively regardless of their backgrounds or domains of expertise. This standardization facilitates collaboration and reduces ambiguity in communication.
+- **1. Standardization:** UML aims to establish a common language and notation for software modeling, allowing developers, analysts, designers, and other stakeholders to communicate effectively regardless of their backgrounds or domains of expertise. This standardization facilitates collaboration and reduces ambiguity in communication.
 
-   **2. Visualization:** UML provides a graphical notation for representing various aspects of a software system, including its structure, behavior, and interactions. Through visual diagrams such as class diagrams, sequence diagrams, and activity diagrams, UML helps stakeholders to visualize and comprehend the complex relationships and dynamics within a system.
+- **2. Visualization:** UML provides a graphical notation for representing various aspects of a software system, including its structure, behavior, and interactions. Through visual diagrams such as class diagrams, sequence diagrams, and activity diagrams, UML helps stakeholders to visualize and comprehend the complex relationships and dynamics within a system.
 
-   **3. Specification:** UML serves as a means to specify the structure and behavior of a system in a concise and standardized way. It enables the documentation of requirements, design decisions, and system architecture, offering a comprehensive and clear representation that can be easily communicated and understood.
+- **3. Specification:** UML serves as a means to specify the structure and behavior of a system in a concise and standardized way. It enables the documentation of requirements, design decisions, and system architecture, offering a comprehensive and clear representation that can be easily communicated and understood.
 
-   **4. Modeling Abstractions:** UML allows the abstraction of complex systems by breaking them down into manageable and comprehensible models. It supports various levels of abstraction, from high-level conceptual models to detailed designs, helping stakeholders focus on relevant aspects of the system at different stages of the software development life cycle.
+- **4. Modeling Abstractions:** UML allows the abstraction of complex systems by breaking them down into manageable and comprehensible models. It supports various levels of abstraction, from high-level conceptual models to detailed designs, helping stakeholders focus on relevant aspects of the system at different stages of the software development life cycle.
 
-   **5. Flexibility:** UML is designed to be flexible and adaptable to various application domains and methodologies. It can be used for modeling a wide range of systems, from business processes to software applications, and it can be applied within different development methodologies, such as object-oriented, component-based, or service-oriented approaches.
+- **5. Flexibility:** UML is designed to be flexible and adaptable to various application domains and methodologies. It can be used for modeling a wide range of systems, from business processes to software applications, and it can be applied within different development methodologies, such as object-oriented, component-based, or service-oriented approaches.
 
 ---
 
