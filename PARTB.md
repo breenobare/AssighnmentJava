@@ -108,13 +108,9 @@ public class PalindromeCheckerGUI extends Application {
 ## Question #
 
 Write a Java program that takes 15 values of type integer as inputs from user, store the values in an array.
-
 a)	Print the values stored in the array on screen.
-
-b)	 Ask user to enter a number, check if that number (entered by user) is present in array or not. If it is present print, “the number found at index (index of the number) ” and the text “number not found in this array”
-
-c)	Create another array, copy all the elements from the existing array to the new array but in reverse order. Now print the elements of the new array on the screen
-
+b)	 Ask user to enter a number, check if that number (entered by user) is present in array or not. If it is present print, “the number found at index (index of the number) ” and the text “number not found in this array”.
+c)	Create another array, copy all the elements from the existing array to the new array but in reverse order. Now print the elements of the new array on the screen.
 d)	Get the sum and product of all elements of your array. Print product and the sum each on its own line.
 
 
