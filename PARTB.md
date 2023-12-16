@@ -42,7 +42,7 @@ public class FibonacciSum {
 ```
 ---
 
-## QQ Palindrome Checker GUI
+## 2. Palindrome Checker GUI
 A palindrome number is a number that remain the same when read from behind or front  ( a number that is equal to reverse of number) for example,  353 is palindrome because reverse of 353 is 353 (you see the number remains the same). But a number like 591 is not palindrome because reverse of 591 is 195 which is not equal to 591. Write Java program to check if a number entered by the user is palindrome or not. You should provide the user with a GUI interface to enter the number and display the results on the same interface.
 ```java
 import javafx.application.Application;
