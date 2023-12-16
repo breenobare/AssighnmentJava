@@ -10,3 +10,5 @@ This repository contains Java code snippets and explanations related to object-o
 ---
 
 [PART A](https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md)
+
+[PART B](https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md)
