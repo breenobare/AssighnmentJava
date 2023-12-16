@@ -10,7 +10,7 @@ Welcome to the Object-Oriented Programming II assignment repository! This collec
 
 ---
 
-## [PART A] (https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md)
+## [PART A](https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md)
 
 [Click here](https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md) to explore code snippets and explanations related to Part A of the assignment.
 - **Object Modeling Techniques (OMT):**
@@ -40,7 +40,7 @@ Welcome to the Object-Oriented Programming II assignment repository! This collec
 
 This concise summary captures the main points from Part A of the Object-Oriented Programming II Assignment in Java.
 
-## [PART B] (https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md)
+## [PART B](https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md)
 
 
 **Fibonacci Sequence:**
