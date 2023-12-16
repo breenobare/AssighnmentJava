@@ -38,21 +38,16 @@ Welcome to the Object-Oriented Programming II assignment repository! This collec
   - Usage: Visualizes, documents, and designs object-oriented systems.
   - Steps: Identify classes, relationships, add attributes and methods, draw connections, add multiplicities, review and refine.
 
-This concise summary captures the main points from Part A of the Object-Oriented Programming II Assignment in Java.
 
 ## [PART B](https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md)
-
-
 **Fibonacci Sequence:**
 - Generates Fibonacci sequence by adding previous two terms.
 - Finds the sum of even-valued terms below four million.
 - Java method `sumEvenFibonacci` calculates the sum.
-
 **Palindrome Checker GUI:**
 - Checks if a number entered by the user is a palindrome.
 - Provides a GUI interface for user input and result display.
 - `isPalindrome` method checks if a string is a palindrome.
-
 **Array Operations (Question 4):**
 - Reads 15 integers from the user and stores them in an array.
 - Prints the array, checks if a user-entered number is present, and finds the index.
