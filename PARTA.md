@@ -198,3 +198,5 @@ Class diagrams are used for visualizing, documenting, and designing the structur
 6. **Review and refine:** Ensure the diagram accurately represents the system's structure.
 
 ---
+
+[PART B](https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md)
