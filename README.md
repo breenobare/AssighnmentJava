@@ -10,7 +10,7 @@ Welcome to the Object-Oriented Programming II assignment repository! This collec
 
 ---
 
-## PART A
+## [PART A] (https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md)
 
 [Click here](https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md) to explore code snippets and explanations related to Part A of the assignment.
 - **Object Modeling Techniques (OMT):**
@@ -40,9 +40,27 @@ Welcome to the Object-Oriented Programming II assignment repository! This collec
 
 This concise summary captures the main points from Part A of the Object-Oriented Programming II Assignment in Java.
 
-## PART B
+## [PART B] (https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md)
 
-[Click here](https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md) to delve into Part B of the assignment. This section extends your knowledge by exploring additional aspects of object-oriented programming. Topics include inheritance, polymorphism, and other advanced concepts.
+
+**Fibonacci Sequence:**
+- Generates Fibonacci sequence by adding previous two terms.
+- Finds the sum of even-valued terms below four million.
+- Java method `sumEvenFibonacci` calculates the sum.
+
+**Palindrome Checker GUI:**
+- Checks if a number entered by the user is a palindrome.
+- Provides a GUI interface for user input and result display.
+- `isPalindrome` method checks if a string is a palindrome.
+
+**Array Operations (Question 4):**
+- Reads 15 integers from the user and stores them in an array.
+- Prints the array, checks if a user-entered number is present, and finds the index.
+- Creates a new array with elements in reverse order and prints it.
+- Calculates the sum and product of array elements.
+
+These Java programs demonstrate tasks related to the Fibonacci sequence, palindrome checking with GUI, and various array operations.
+[Click here](https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md) to delve into Part B of the assignment.
 
 ---
 
