@@ -12,6 +12,8 @@ Welcome to the Object-Oriented Programming II assignment repository! This collec
 
 ## [PART A](https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md)
 
+[Click here](https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md) to explore code snippets and explanations related to Part A of the assignment.
+
 - **Object Modeling Techniques (OMT):**
   - Method for visualizing and documenting software systems.
   - Techniques: Object Modeling, Dynamic Modeling, Functional Modeling.
@@ -36,8 +38,6 @@ Welcome to the Object-Oriented Programming II assignment repository! This collec
   - Definition: Static structure diagram.
   - Usage: Visualizes, documents, and designs object-oriented systems.
   - Steps: Identify classes, relationships, add attributes and methods, draw connections, add multiplicities, review and refine.
- 
-[Click here](https://github.com/breenobare/AssighnmentJava/blob/main/PARTA.md) to explore code snippets and explanations related to Part A of the assignment.
 
 
 ## [PART B](https://github.com/breenobare/AssighnmentJava/blob/main/PARTB.md)
